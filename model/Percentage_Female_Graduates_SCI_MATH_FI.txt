@@ -1,0 +1,6 @@
+Feature_Importance:
+                    importance
+SCI_JOBS-Decrease    0.448961
+Unaffiliated         0.315359
+stemt                0.151838
+SCI_TRUST-Low        0.083842

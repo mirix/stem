@@ -1,0 +1,3 @@
+Descriptor,RSquared
+SCI_BENEFITS-Enthusiast,-0.8098304072801517
+stemt,-0.29722233131766534
